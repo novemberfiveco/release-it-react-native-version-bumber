@@ -1,6 +1,6 @@
 # iOS and android version read/write plugin for release-it
 
-This plugin reads and/or writes version/manifest files.
+This plugin reads and/or writes version/manifest files. It will set CFBundleShortVersionString (iOS) and versionName (android) to the package.json version. CFBundleVersion (iOS) and versionCode (android) will be incremented by 1.
 
 ### Installation
 
