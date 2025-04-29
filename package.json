@@ -1,6 +1,6 @@
 {
   "name": "@novemberfiveco/release-it-rn-version-bumper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin that bumps CFBundleShortVersionString (iOS) and versionName (android)",
   "main": "index.js",
   "peerDependencies": {
