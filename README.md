@@ -21,7 +21,7 @@ npm install --save-dev @novemberfiveco/release-it-react-native-version-bumper
 
 #### `plistPath: string`
 
-Required - Path to Info.plist. This will likely be "ios/{PROJECT_NAME}/Info.plist
+Required - Path to Info.plist. This will likely be "ios/{PROJECT_NAME}/Info.plist"
 
 #### `gradlePath: string`
 
