@@ -5,7 +5,7 @@ This plugin reads and/or writes version/manifest files. It will set CFBundleShor
 ### Installation
 
 ```sh
-npm install --save-dev @novemberfiveco/release-it-react-native-version-bumper
+npm install --save-dev @novemberfiveco/release-it-rn-version-bumper
 ```
 
 ### Configuration Options
