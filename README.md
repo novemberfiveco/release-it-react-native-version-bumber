@@ -12,7 +12,7 @@ npm install --save-dev @novemberfiveco/release-it-rn-version-bumper
 
 ```json
 "plugins": {
-  "@novemberfiveco/release-it-react-native-version-bumper": {
+  "@novemberfiveco/release-it-rn-version-bumper": {
     "plistPath": "path-to/Info.plist",
     "gradlePath": "path-to/app/build.gradle"
   }
